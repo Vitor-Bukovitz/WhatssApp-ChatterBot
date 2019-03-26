@@ -64,8 +64,8 @@ class WhatssAppBot:
 
     def train_bot(self):
          trainer = ListTrainer(self.bot)
-         for chat in os.listdir("train"):
-             conversations = open("train"+'/'+chat, 'r', encoding="utf8").readlines()
+         for chat in os.listdir("train."):
+             conversations = open("train."+'/'+chat, 'r', encoding="utf8").readlines()
              trainer.train(conversations)
     
     def train_bot2(self):
