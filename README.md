@@ -3,7 +3,7 @@ Hello everyone!
 This is my project for a chatterbot for Whatsapp.
 His name is James, and I'm trying to improve his functionalities
 
-Quick start:
+#Quick start:
 
 Step 1- download the project and extract it
 
