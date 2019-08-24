@@ -13,6 +13,6 @@ Step 3- run the program on the CMD/Terminal
 
 Step 4- Have fun!
 
-#Adiveses
+# Advises
 
 It will only work if you have firefox downloaded
